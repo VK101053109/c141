@@ -1,0 +1,30 @@
+body {}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.b1 {
+    float: right;
+}
+
+.stat {
+    background-color: white;
+}
+
+.crf {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0;
+    background: gray;
+    color: lightblue;
+    text-shadow: 5px 5px 5px black;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
